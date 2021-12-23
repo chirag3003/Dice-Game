@@ -6,7 +6,7 @@
 
 ## Author
 
-👤 **Apex Web (Chirag Bhalotia)**
+👤 **Chirag Bhalotia**
 
 * Website: https://chirag.codes
 * Github: [@chirag3003](https://github.com/chirag3003)
